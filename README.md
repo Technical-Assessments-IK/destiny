@@ -1,4 +1,4 @@
-# destiny
+# Technical Assessment
 
 Please create Javscript functions that accept input parameters to perform each of the following:
 
